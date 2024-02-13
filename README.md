@@ -1,6 +1,6 @@
 # Pokemon App
 
-- This is a simple app that fetches pokemons using api by using react and vite.
+- This is a simple app that fetches pokemons using api by using react and viteE.
 
 ## Description
 
